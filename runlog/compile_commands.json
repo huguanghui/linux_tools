@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/abc/GIT/linux_tools/runlog",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-I/home/abc/GIT/linux_tools/runlog/inc", "-DNDEBUG", "-o", "build/.objs/demo/linux/x86_64/release/src/main.c.o", "src/main.c"],
+  "file": "src/main.c"
+}]
